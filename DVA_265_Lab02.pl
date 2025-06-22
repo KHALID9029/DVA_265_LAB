@@ -16,7 +16,7 @@ bird(trumpeter_swan):-
 
 bird(mute_swan):-
     family(swan),
-    voice(quite).
+    voice(quiet).
 
 order(tubenose):-
     nostrils(external_tubular),

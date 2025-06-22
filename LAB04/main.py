@@ -1,3 +1,8 @@
+"""
+Code for the LAB 4 of Artificial Intelligence 2,
+Khalid Hasan Ador and Pauline Laval
+"""
+
 import random
 import matplotlib.pyplot as plt
 from material_agent import MaterialAgent

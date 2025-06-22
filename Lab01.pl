@@ -1,3 +1,8 @@
+"""
+Code for the LAB 1 of Artificial Intelligence 2,
+Khalid Hasan Ador and Pauline Laval
+"""
+
 medlem(X,[X|R]). 
 medlem(X,[Y|R]) :- medlem(X,R).
 % For question 5
